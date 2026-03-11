@@ -26,11 +26,11 @@
 
 <!-- Socials / Links with anime-style icons if you want -->
 <div align="center">
-  <a href="https://myanimelist.net/profile/YOUR_MAL_USERNAME">
+  <a href="https://myanimelist.net/profile/Nyxx1928">
     <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logoColor=white&logo=MyAnimeList" alt="MAL"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/just_nyxx02/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <!-- Add Discord, LinkedIn, etc. -->
 </div>
