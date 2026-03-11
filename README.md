@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-  <strong>Software Developer | Anime & Manga Enjoyer | Movie Enthusiast</strong><br>
+  <strong>Software Developer | Anime & Manga Enjoyer | Movie & K-Drama Enthusiast</strong><br>
   Currently grinding code and watching seasonal anime in Caloocan City 🇵🇭
 </p>
 
