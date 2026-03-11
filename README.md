@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Yo! やっほー！ I'm [Your Display Name / Nickname] 
+  Yo! やっほー！ I'm Nics Lumapak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -20,8 +20,8 @@
 </div>
 
 <p align="center">
-  <strong>Software Developer | Anime & Manga Enjoyer | [Your other interests e.g. Gaming / Weeb / Pixel Artist]</strong><br>
-  Currently grinding code and watching seasonal anime in Quezon City 🇵🇭
+  <strong>Software Developer | Anime & Manga Enjoyer | Movie Enthusiast</strong><br>
+  Currently grinding code and watching seasonal anime in Caloocan City 🇵🇭
 </p>
 
 <!-- Socials / Links with anime-style icons if you want -->
