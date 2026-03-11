@@ -15,7 +15,7 @@
 
 <!-- Quick anime greeting gif or chibi waving -->
 <div align="center">
-  <img src="https://media.tenor.com/EXAMPLE_ANIME_WAVING_GIF.gif" width="200" alt="anime wave"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNhZnBrZGVxcm01ZGFvbm5iZWtlOHk5c2Rqdm5hZG8zemt0bndreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif" width="200" alt="anime wave"/>
   <!-- Find a good one: search Tenor/Giphy for "anime [character] wave" or "kawaii coding" -->
 </div>
 
