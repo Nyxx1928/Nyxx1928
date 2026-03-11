@@ -72,7 +72,7 @@
 <!-- Tech stack with anime twist (optional icons from https://skillicons.dev) -->
 <h2 align="center">Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,tailwind,nodejs,git,vscode&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,tailwind,nodejs,git,vscode,unity,godot,supabase,firebase,php,kiro,cursor,windsurf,claude,copilot,css&theme=dark" alt="skills"/>
   <br>
   <em>Leveling up like it's an RPG</em>
 </div>
