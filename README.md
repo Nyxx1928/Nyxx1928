@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20[Nyxx]&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20Nyxx&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -39,9 +39,9 @@
 
 <!-- Stats cards – use dark/neon anime-friendly themes like tokyonight / dracula -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyxx1928&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxx1928&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
