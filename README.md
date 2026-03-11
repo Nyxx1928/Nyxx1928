@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxx1928&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <!-- Anime section example -->
@@ -72,7 +72,7 @@
 <!-- Tech stack with anime twist (optional icons from https://skillicons.dev) -->
 <h2 align="center">Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,git,linux,vscode&theme=dark" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,tailwind,nodejs,git,vscode&theme=dark" alt="skills"/>
   <br>
   <em>Leveling up like it's an RPG</em>
 </div>
@@ -87,7 +87,7 @@
 
 <!-- Visitors badge (fun anime style) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff69b4&label=Senpai+Visits!" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nyxx1928&style=for-the-badge&color=ff69b4&label=Senpai+Visits!" alt="Profile views"/>
 </div>
 
 <!-- Footer vibe -->
