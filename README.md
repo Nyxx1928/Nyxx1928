@@ -2,16 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20Nyxx&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
 
-<!-- Greeting with GIFs beside the text -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWJtY3p6d3J6d3h4d3g1anozcHNubHV5czM2NmZpeDVoa2w0OXZ4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AKQ8282wN7zHevlEp7/giphy.gif" width="60" alt="left wave gif">
-  <h1 style="margin: 0;">Yo! やっほー！ I'm Nics Lumapak</h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp2bHpkZWRocW5zOXNrMjNvdnB2ZGhvZHlnMW1xcW54M3UwanVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QoRrInwzYzQYlQgGVU/giphy.gif" width="60" alt="right wave gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWJtY3p6d3J6d3h4d3g1anozcHNubHV5czM2NmZpeDVoa2w0OXZ4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AKQ8282wN7zHevlEp7/giphy.gif" width="60" alt="left"> 
+  <strong><font size="+3">Yo! やっほー！ I'm Nics Lumapak</font></strong> 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp2bHpkZWRocW5zOXNrMjNvdnB2ZGhvZHlnMW1xcW54M3UwanVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QoRrInwzYzQYlQgGVU/giphy.gif" width="60" alt="right">
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif" width="220" alt="kawaii anime wave"/>
-  <!-- Cute chibi / coding anime wave – feel free to swap -->
 </div>
 
 <p align="center">
