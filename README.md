@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20Nyxx&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20Nics Lumapak&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
 
 <!-- ──────────────────────────────────────────────── -->
 <!-- Greeting with properly sized GIFs -->
 <!-- ──────────────────────────────────────────────── -->
 <h1 align="center">
-  Yo! やっほー！ I'm Nics Lumapak
+  Dolce Far Niente
 </h1>
 
 <div align="center">
