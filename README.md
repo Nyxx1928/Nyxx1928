@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20NicsLumapak&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=こんにちは！%20I'm%20Nyxx&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="header" width="100%"/>
 </div>
 
 <!-- ──────────────────────────────────────────────── -->
