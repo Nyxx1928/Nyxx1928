@@ -35,13 +35,21 @@
 <hr>
 
 <h2 align="center">GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyxx1928&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" loading="lazy"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxx1928&theme=tokyonight&hide_border=true" alt="Contribution Streak" loading="lazy"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nyxx1928&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+       alt="Nyxx GitHub Stats" 
+       loading="lazy"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyxx1928&theme=tokyonight&hide_border=true" 
+       alt="Nyxx Contribution Streak" 
+       loading="lazy"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxx1928&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" loading="lazy"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nyxx1928&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Most Used Languages" 
+       loading="lazy"/>
 </div>
 
 <hr>
@@ -49,7 +57,7 @@
 <h2 align="center">Currently Watching</h2>
 
 <div align="center">
-  <!-- Replace with actual direct .gif links from Giphy or Tenor -->
+  <!-- Replace these with your actual direct .gif links from Tenor or Giphy -->
   <img src="https://media.tenor.com/YOUR_FRIEREN_GIF_HERE.gif" width="160" alt="Frieren">
   <img src="https://media.tenor.com/YOUR_OSHI_NO_KO_GIF_HERE.gif" width="160" alt="Oshi no Ko">
   <img src="https://media.tenor.com/YOUR_JJK_GIF_HERE.gif" width="160" alt="Jujutsu Kaisen">
