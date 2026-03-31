@@ -58,9 +58,9 @@
 
 <div align="center">
   <!-- Replace these with your actual direct .gif links from Tenor or Giphy -->
-  <img src="https://media.tenor.com/YOUR_FRIEREN_GIF_HERE.gif" width="160" alt="Frieren">
-  <img src="https://media.tenor.com/YOUR_OSHI_NO_KO_GIF_HERE.gif" width="160" alt="Oshi no Ko">
-  <img src="https://media.tenor.com/YOUR_JJK_GIF_HERE.gif" width="160" alt="Jujutsu Kaisen">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV4MWx3djFkc2JxdXMwa3A5YTc1cW1zOXlrOXNrcnhhZDBwc25kbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhwdyExCY4NJhHyYZW/giphy.gif" width="160" alt="In your radiant season">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJiaHZ1YzRmaXZiZXF6N2V5OWxrMm1jZ291YjVhNTQzOG5wdG5nOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I1HWJXKavec8tdmUTr/giphy.gif" width="160" alt="Business Proposal">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjR5dWIxczFoYnk5cWQwaG5tYnc0MDJycjNjbGx2ancxbTl6MjFrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TN7zv8THiiALLWhLT3/giphy.gif" width="160" alt="Han hyo joo">
 </div>
 
 <p align="center">
