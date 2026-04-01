@@ -63,10 +63,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY0d3EwZjl4azRidGQ5OWxkeGVxdmwwYzBlYmVxbTc1d3A3OTY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOUsVM7ibNtB1jsnJh/giphy.gif" width="160" alt="Han Hyo-joo">
 </div>
 
-<p align="center">
-  <em>Favorite genres: Isekai, Mecha, Slice of Life, Psychological Thriller</em>
-</p>
-
 <hr>
 
 <h2 align="center">Tech Stack</h2>
