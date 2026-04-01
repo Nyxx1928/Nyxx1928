@@ -59,8 +59,8 @@
 <div align="center">
   <!-- Replace these with your actual direct .gif links from Tenor or Giphy -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV4MWx3djFkc2JxdXMwa3A5YTc1cW1zOXlrOXNrcnhhZDBwc25kbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhwdyExCY4NJhHyYZW/giphy.gif" width="160" alt="In your radiant season">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2o1bWJubjV2MnJmMnl2dm1saTlhNmduZ29kZWthNzJzNHd0cGQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAy9NNu16pYYg/giphy.gif" width="160" alt="Fight club">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJiaHZ1YzRmaXZiZXF6N2V5OWxrMm1jZ291YjVhNTQzOG5wdG5nOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I1HWJXKavec8tdmUTr/giphy.gif" width="160" alt="Business Proposal">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY0d3EwZjl4azRidGQ5OWxkeGVxdmwwYzBlYmVxbTc1d3A3OTY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YOUsVM7ibNtB1jsnJh/giphy.gif" width="160" alt="Han Hyo-joo">
 </div>
 
 <hr>
