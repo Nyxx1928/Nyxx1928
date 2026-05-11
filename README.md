@@ -68,7 +68,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,supabase,firebase,php,unity,godot&theme=dark" alt="Tech Stack" loading="lazy"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,vscode,java,supabase,firebase,php,unity,godot&theme=dark" alt="Tech Stack" loading="lazy"/>
 </div>
 
 <hr>
